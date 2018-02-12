@@ -1,0 +1,62 @@
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.InsertSCForm.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.MainForm.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.exe
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.pdb
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.UpdateSCForm.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.DeleteSCForm.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCByCnoForm.resources
+d:\documents\visual studio 2010\Projects\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCBySnoForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.exe
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.pdb
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.DeleteSCForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.InsertSCForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.MainForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Properties.Resources.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCByCnoForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCBySnoForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.UpdateSCForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.LoginForm.resources
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+C:\Documents and Settings\sxzx\桌面\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Form1.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.exe
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.pdb
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.DeleteSCForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Form1.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.InsertSCForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.LoginForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.MainForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Properties.Resources.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCByCnoForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCBySnoForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.UpdateSCForm.resources
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\数据库技术课程设计\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.DeleteSCForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Form1.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.InsertSCForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.LoginForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.MainForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.Properties.Resources.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCByCnoForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.SelectSCBySnoForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.UpdateSCForm.resources
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.exe
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.pdb
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe.config
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.exe
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\bin\Debug\学生成绩管理系统.pdb
+C:\Users\admin\Desktop\服务器备份\java项目\c#学生成绩管理系统（cs架构）\学生成绩管理系统简版\学生成绩管理系统\obj\x86\Debug\学生成绩管理系统.csprojResolveAssemblyReference.cache
